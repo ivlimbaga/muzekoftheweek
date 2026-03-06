@@ -1,0 +1,3 @@
+git remote add external_repo <nukeop.github.io/nuclear>
+it fetch external_repo
+git merge external_repo/main --allow-unrelated-histories
